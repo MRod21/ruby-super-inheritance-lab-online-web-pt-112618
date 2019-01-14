@@ -9,5 +9,6 @@ class ChattyStudent < Student
     10.times do 
       puts super
     end
+  end
   
 end
